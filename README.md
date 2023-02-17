@@ -19,3 +19,11 @@
 ### :woman_technologist: About Me :
 I am a Discord Bot Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+- :telescope: I’m currently a student.
+
+- :seedling: I code discord bots.
+
+- :zap: In my free time, i code bots and watch anime.
+
+- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-EINZI-darkblue?style=flat&logo=discord&logoColor=white)](https://discord.com/users/884065350742859796)
+
