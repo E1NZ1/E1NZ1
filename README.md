@@ -27,3 +27,8 @@ I am a Discord Bot Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-EINZI-darkblue?style=flat&logo=discord&logoColor=white)](https://discord.com/users/884065350742859796)
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=E1NZ1&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E1NZ1&layout=compact&theme=vision-friendly-dark)](https://github.com/E1NZ1/github-readme-stats)
